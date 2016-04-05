@@ -1,0 +1,32 @@
+{
+  "name": "gulp-luaminify",
+  "version": "0.0.1",
+  "description": "Minifies lua content with luamin",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/whtiehack/gulp-luaminify.git"
+  },
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "luamin": "^1.0.0",
+    "through2": "^2.0.1"
+  },
+  "keywords": [
+    "gulpplugin",
+    "lua",
+    "minify",
+    "luaminify",
+    "gulp"
+  ],
+  "author": {
+    "name": "whitehack"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/whtiehack/gulp-luaminify/issues"
+  },
+  "homepage": "https://github.com/whtiehack/gulp-luaminify",
+  "scripts": {},
+  "directories": {}
+}
